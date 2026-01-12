@@ -1,0 +1,51 @@
+
+PROJECT: Student Performance Analytics
+DATE: 2025-12-25 17:46:18
+
+DATASET INFORMATION:
+- Total Samples: 1193
+- Number of Features: (1193, 5)
+- Target Variable: current_cgpa
+- Training Samples: 954
+- Testing Samples: 239
+
+MODEL SPECIFICATION:
+- Algorithm: Multiple Linear Regression
+- Features Used: 5
+
+PERFORMANCE METRICS:
+Training Set:
+  - R² Score: 1.000000
+  - RMSE: 0.000000
+  - MAE: 0.000000
+  - MAPE: 0.00%
+
+Testing Set:
+  - R² Score: 1.000000
+  - RMSE: 0.000000
+  - MAE: 0.000000
+  - MAPE: 0.00%
+
+MODEL INTERPRETATION:
+- The model performs well with an R² of 1.0000
+- Average prediction error is ±0.0000 CGPA points
+- The model explains 100.00% of the variance in student CGPA
+
+TOP 3 MOST INFLUENTIAL FEATURES:
+
+1. prev_sgpa: Coefficient = 0.829332
+2. academic_progress: Coefficient = 0.569408
+3. attendance: Coefficient = 0.000000
+
+CONCLUSIONS:
+- The student performance prediction model is functional and provides insights
+- Key factors driving student performance have been identified
+- The model can be used for early intervention and student support planning
+- Further improvements possible through feature engineering and advanced algorithms
+
+RECOMMENDATIONS:
+1. Use model for predicting at-risk students for intervention
+2. Focus on high-impact factors for targeted improvements
+3. Periodically retrain model with new data
+4. Consider ensemble methods (Random Forest, Gradient Boosting) for better accuracy
+5. Incorporate additional features (tutorial attendance, lab work, etc.)
