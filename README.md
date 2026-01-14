@@ -29,7 +29,7 @@ Train=Test: Perfect generalization ✅
 | 3-5|   Others |             **~0.000** | Negligible |
 
 **Model Equation**: `CGPA = 2.697 + 1.000×(academic_progress) + 0.829×(prev_sgpa)`
-
+```
 ## 🏗️ **Project Structure**
 student-performance-prediction/
 ├── data/Students_Performance_data_set.xlsx
@@ -41,6 +41,7 @@ student-performance-prediction/
 ├── models/best_model.pkl
 ├── reports/project_report.md
 └── results/linear_regression_results.png
+```
 
 📋 Requirements
 pandas==2.0.3
